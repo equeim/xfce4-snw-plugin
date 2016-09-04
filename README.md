@@ -1,2 +1,1 @@
-# xfce4-snw-plugin
- Plugin for xfce4-panel to show StatusNotifierItems (also known as AppIndicators) 
+Repository is moved to https://github.com/equeim/snw-plugin
